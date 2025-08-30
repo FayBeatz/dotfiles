@@ -1,0 +1,48 @@
+2025/08/30-17:21:53.300 7252c Reusing MANIFEST /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/30-17:21:53.300 7252c Recovering log #34
+2025/08/30-17:21:53.307 7252c Reusing old log /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000034.log 
+2025/08/30-17:50:33.316 7252d Level-0 table #39: started
+2025/08/30-17:50:33.332 7252d Level-0 table #39: 2478706 bytes OK
+2025/08/30-17:50:33.336 7252d Delete type=0 #34
+2025/08/30-17:57:01.316 7252c Compacting 1@1 + 1@2 files
+2025/08/30-17:57:01.324 7252c Generated table #40@1: 51 keys, 13785 bytes
+2025/08/30-17:57:01.324 7252c Compacted 1@1 + 1@2 files => 13785 bytes
+2025/08/30-17:57:01.328 7252c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-17:57:01.328 7252c Delete type=2 #36
+2025/08/30-17:57:01.328 7252c Delete type=2 #39
+2025/08/30-18:42:49.656 7252c Level-0 table #42: started
+2025/08/30-18:42:49.700 7252c Level-0 table #42: 2256085 bytes OK
+2025/08/30-18:42:49.704 7252c Delete type=0 #38
+2025/08/30-18:47:21.658 7252c Compacting 1@1 + 1@2 files
+2025/08/30-18:47:21.666 7252c Generated table #43@1: 52 keys, 13412 bytes
+2025/08/30-18:47:21.666 7252c Compacted 1@1 + 1@2 files => 13412 bytes
+2025/08/30-18:47:21.670 7252c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-18:47:21.670 7252c Delete type=2 #40
+2025/08/30-18:47:21.670 7252c Delete type=2 #42
+2025/08/30-19:25:02.368 7252d Level-0 table #45: started
+2025/08/30-19:25:02.403 7252d Level-0 table #45: 2692946 bytes OK
+2025/08/30-19:25:02.408 7252d Delete type=0 #41
+2025/08/30-19:31:58.371 7252c Compacting 1@1 + 1@2 files
+2025/08/30-19:31:58.391 7252c Generated table #46@1: 51 keys, 16028 bytes
+2025/08/30-19:31:58.392 7252c Compacted 1@1 + 1@2 files => 16028 bytes
+2025/08/30-19:31:58.396 7252c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-19:31:58.397 7252c Delete type=2 #43
+2025/08/30-19:31:58.397 7252c Delete type=2 #45
+2025/08/30-20:08:22.071 7252d Level-0 table #48: started
+2025/08/30-20:08:22.104 7252d Level-0 table #48: 2654675 bytes OK
+2025/08/30-20:08:22.109 7252d Delete type=0 #44
+2025/08/30-20:13:33.109 7252c Compacting 1@1 + 1@2 files
+2025/08/30-20:13:33.129 7252c Generated table #49@1: 51 keys, 17692 bytes
+2025/08/30-20:13:33.129 7252c Compacted 1@1 + 1@2 files => 17692 bytes
+2025/08/30-20:13:33.135 7252c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-20:13:33.136 7252c Delete type=2 #46
+2025/08/30-20:13:33.136 7252c Delete type=2 #48
+2025/08/30-20:51:29.556 7252d Level-0 table #51: started
+2025/08/30-20:51:29.600 7252d Level-0 table #51: 2606475 bytes OK
+2025/08/30-20:51:29.606 7252d Delete type=0 #47
+2025/08/30-20:58:05.559 7252c Compacting 1@1 + 1@2 files
+2025/08/30-20:58:05.570 7252c Generated table #52@1: 52 keys, 15239 bytes
+2025/08/30-20:58:05.570 7252c Compacted 1@1 + 1@2 files => 15239 bytes
+2025/08/30-20:58:05.576 7252c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-20:58:05.576 7252c Delete type=2 #49
+2025/08/30-20:58:05.576 7252c Delete type=2 #51

@@ -1,0 +1,21 @@
+2025/08/30-15:06:18.776 36f7c Reusing MANIFEST /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/30-15:06:18.777 36f7c Recovering log #27
+2025/08/30-15:06:18.789 36f7c Reusing old log /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000027.log 
+2025/08/30-15:16:59.836 36f7d Level-0 table #32: started
+2025/08/30-15:16:59.883 36f7d Level-0 table #32: 2484819 bytes OK
+2025/08/30-15:16:59.889 36f7d Delete type=0 #27
+2025/08/30-15:24:11.840 36f7c Compacting 1@1 + 1@2 files
+2025/08/30-15:24:11.848 36f7c Generated table #33@1: 51 keys, 13811 bytes
+2025/08/30-15:24:11.848 36f7c Compacted 1@1 + 1@2 files => 13811 bytes
+2025/08/30-15:24:11.851 36f7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-15:24:11.852 36f7c Delete type=2 #29
+2025/08/30-15:24:11.852 36f7c Delete type=2 #32
+2025/08/30-16:00:29.325 36f7d Level-0 table #35: started
+2025/08/30-16:00:29.365 36f7d Level-0 table #35: 2419683 bytes OK
+2025/08/30-16:00:29.370 36f7d Delete type=0 #31
+2025/08/30-16:06:40.915 36f7c Compacting 1@1 + 1@2 files
+2025/08/30-16:06:40.922 36f7c Generated table #36@1: 51 keys, 14497 bytes
+2025/08/30-16:06:40.922 36f7c Compacted 1@1 + 1@2 files => 14497 bytes
+2025/08/30-16:06:40.926 36f7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/30-16:06:40.926 36f7c Delete type=2 #33
+2025/08/30-16:06:40.926 36f7c Delete type=2 #35

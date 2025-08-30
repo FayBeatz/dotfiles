@@ -1,0 +1,23 @@
+{"key":"os","value":"linux","_id":"6l1JvXOSDYdivTLn"}
+{"key":"dhtInfo","value":{"server":"https://fusme.link/,https://jfper.link/,https://uxert.link/,https://yrkde.link/","git":"https://github.com/popcorn-official/popcorn-desktop/","site":"https://popcorn-time.site/","r":"PopcornTimeApp","v":"0.5.0","keys":{"os":"Butter","fanart":"ce4bba4b3cc473306c6cddb4e1cb0da4","tvdb":"80A769280C71D83B","tmdb":"ac92176abc89a80e6f5df9510e326601","trakttv":{"id":"647c69e4ed1ad13393bf6edd9d8f9fb6fe9faf405b44320a6b71ab960b4540a2","s":"f55b0a53c63af683588b47f6de94226b7572a6f83f40bd44c58a7c83fe1f2cb1"}}},"_id":"8yNSoCIbh6e9tDuG"}
+{"key":"activateLoCtrl","value":true,"_id":"AkPsqp0j4WZQJVWS"}
+{"key":"dhtEnable","value":true,"_id":"BH8B9ygDS6pzsRZS"}
+{"key":"updateNotification","value":true,"_id":"PwojNS65oJfo5oad"}
+{"key":"dhtDataUpdated","value":1756385171373,"_id":"RWr3BUcyZXjtSjiM"}
+{"key":"version","value":"0.5.1","_id":"YV1JqjBItW36OYTW"}
+{"key":"totalDownloaded","value":34342424576,"_id":"ZqzX1KMN8uQbyR2F"}
+{"key":"dhtData","value":"{\"server\":\"https://fusme.link/,https://jfper.link/,https://uxert.link/,https://yrkde.link/\",\"git\":\"https://github.com/popcorn-official/popcorn-desktop/\",\"site\":\"https://popcorn-time.site/\",\"r\":\"PopcornTimeApp\",\"v\":\"0.5.0\",\"keys\":{\"os\":\"Butter\",\"fanart\":\"ce4bba4b3cc473306c6cddb4e1cb0da4\",\"tvdb\":\"80A769280C71D83B\",\"tmdb\":\"ac92176abc89a80e6f5df9510e326601\",\"trakttv\":{\"id\":\"647c69e4ed1ad13393bf6edd9d8f9fb6fe9faf405b44320a6b71ab960b4540a2\",\"s\":\"f55b0a53c63af683588b47f6de94226b7572a6f83f40bd44c58a7c83fe1f2cb1\"}}}","_id":"a7vkvVbmyLiAIZNd"}
+{"key":"disclaimerAccepted","value":1,"_id":"ejVcBynrJhtf6ygV"}
+{"key":"OnlineSearchCategory","value":"Series","_id":"nLlXe2KVAQg9NyS2"}
+{"key":"totalUploaded","value":5466414853,"_id":"nNE9rzN2gnQVbBtI"}
+{"key":"arch","value":"x64","_id":"sEciBRnhHc8LTdi5"}
+{"key":"chosenPlayer","value":"mpv","_id":"ueg8pnSwWuUefPhX"}
+{"key":"releaseName","value":"Now.. Bring me that Horizon","_id":"w00sbzBVUJMovKZw"}
+{"key":"language","value":"en","_id":"xmu1WBPtQ03SoQPZ"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.5.1","_id":"YV1JqjBItW36OYTW"}
+{"key":"releaseName","value":"Now.. Bring me that Horizon","_id":"w00sbzBVUJMovKZw"}
+{"key":"arch","value":"x64","_id":"sEciBRnhHc8LTdi5"}
+{"key":"os","value":"linux","_id":"6l1JvXOSDYdivTLn"}
+{"key":"totalDownloaded","value":34342424576,"_id":"ZqzX1KMN8uQbyR2F"}
+{"key":"totalUploaded","value":5466420561,"_id":"nNE9rzN2gnQVbBtI"}
