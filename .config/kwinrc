@@ -1,0 +1,5 @@
+[Effect-hidecursor]
+InactivityDuration=5
+
+[Plugins]
+hidecursorEnabled=true

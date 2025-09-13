@@ -1,0 +1,15 @@
+2025/09/12-00:00:27.796 153a37 Reusing MANIFEST /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/12-00:00:27.796 153a37 Recovering log #165
+2025/09/12-00:00:27.801 153a37 Reusing old log /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000165.log 
+2025/09/12-00:28:11.944 153a38 Level-0 table #170: started
+2025/09/12-00:28:11.959 153a38 Level-0 table #170: 2389492 bytes OK
+2025/09/12-00:28:11.966 153a38 Delete type=0 #165
+2025/09/12-00:37:51.944 153a37 Compacting 1@1 + 1@2 files
+2025/09/12-00:37:51.951 153a37 Generated table #171@1: 51 keys, 17229 bytes
+2025/09/12-00:37:51.951 153a37 Compacted 1@1 + 1@2 files => 17229 bytes
+2025/09/12-00:37:51.957 153a37 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/12-00:37:51.957 153a37 Delete type=2 #167
+2025/09/12-00:37:51.957 153a37 Delete type=2 #170
+2025/09/12-05:40:57.912 153a38 Level-0 table #173: started
+2025/09/12-05:40:57.928 153a38 Level-0 table #173: 2338106 bytes OK
+2025/09/12-05:40:57.935 153a38 Delete type=0 #169

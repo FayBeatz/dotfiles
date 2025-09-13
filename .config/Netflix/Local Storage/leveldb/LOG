@@ -1,0 +1,17 @@
+2025/09/12-00:00:20.739 153a37 Reusing MANIFEST /home/fahmy/.config/Netflix/Local Storage/leveldb/MANIFEST-000001
+2025/09/12-00:00:20.744 153a37 Recovering log #57
+2025/09/12-00:00:20.744 153a37 Level-0 table #60: started
+2025/09/12-00:00:20.748 153a37 Level-0 table #60: 13553 bytes OK
+2025/09/12-00:00:20.755 153a37 Delete type=0 #57
+2025/09/12-05:42:13.382 153a37 Level-0 table #63: started
+2025/09/12-05:42:13.386 153a37 Level-0 table #63: 16691 bytes OK
+2025/09/12-05:42:13.392 153a37 Delete type=0 #61
+2025/09/12-05:42:13.392 153a37 Compacting 4@0 + 1@1 files
+2025/09/12-05:42:13.398 153a37 Generated table #64@0: 1095 keys, 19567 bytes
+2025/09/12-05:42:13.399 153a37 Compacted 4@0 + 1@1 files => 19567 bytes
+2025/09/12-05:42:13.405 153a37 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/12-05:42:13.405 153a37 Delete type=2 #53
+2025/09/12-05:42:13.405 153a37 Delete type=2 #55
+2025/09/12-05:42:13.405 153a37 Delete type=2 #58
+2025/09/12-05:42:13.405 153a37 Delete type=2 #60
+2025/09/12-05:42:13.405 153a37 Delete type=2 #63

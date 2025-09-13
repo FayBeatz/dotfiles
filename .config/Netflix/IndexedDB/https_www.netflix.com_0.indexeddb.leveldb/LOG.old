@@ -1,0 +1,57 @@
+2025/09/11-14:02:23.781 3cd4f Reusing MANIFEST /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/11-14:02:23.781 3cd4f Recovering log #146
+2025/09/11-14:02:23.791 3cd4f Reusing old log /home/fahmy/.config/Netflix/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000146.log 
+2025/09/11-14:23:32.542 3cd50 Level-0 table #151: started
+2025/09/11-14:23:32.560 3cd50 Level-0 table #151: 2510278 bytes OK
+2025/09/11-14:23:32.567 3cd50 Delete type=0 #146
+2025/09/11-14:31:24.545 3cd50 Compacting 1@1 + 1@2 files
+2025/09/11-14:31:24.553 3cd50 Generated table #152@1: 51 keys, 16854 bytes
+2025/09/11-14:31:24.553 3cd50 Compacted 1@1 + 1@2 files => 16854 bytes
+2025/09/11-14:31:24.558 3cd50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/11-14:31:24.559 3cd50 Delete type=2 #148
+2025/09/11-14:31:24.559 3cd50 Delete type=2 #151
+2025/09/11-15:07:04.743 3cd50 Level-0 table #154: started
+2025/09/11-15:07:04.801 3cd50 Level-0 table #154: 2470711 bytes OK
+2025/09/11-15:07:04.825 3cd50 Delete type=0 #150
+2025/09/11-15:11:56.750 3cd4f Compacting 1@1 + 1@2 files
+2025/09/11-15:11:56.766 3cd4f Generated table #155@1: 51 keys, 16964 bytes
+2025/09/11-15:11:56.766 3cd4f Compacted 1@1 + 1@2 files => 16964 bytes
+2025/09/11-15:11:56.772 3cd4f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/11-15:11:56.773 3cd4f Delete type=2 #152
+2025/09/11-15:11:56.773 3cd4f Delete type=2 #154
+2025/09/11-16:32:36.494 3cd83 Level-0 table #157: started
+2025/09/11-16:32:36.510 3cd83 Level-0 table #157: 2307188 bytes OK
+2025/09/11-16:32:36.518 3cd83 Delete type=0 #153
+2025/09/11-16:37:52.494 3cd50 Compacting 1@1 + 1@2 files
+2025/09/11-16:37:52.501 3cd50 Generated table #158@1: 51 keys, 16748 bytes
+2025/09/11-16:37:52.501 3cd50 Compacted 1@1 + 1@2 files => 16748 bytes
+2025/09/11-16:37:52.507 3cd50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/11-16:37:52.507 3cd50 Delete type=2 #155
+2025/09/11-16:37:52.507 3cd50 Delete type=2 #157
+2025/09/11-17:15:45.736 3cd50 Level-0 table #160: started
+2025/09/11-17:15:45.784 3cd50 Level-0 table #160: 2461479 bytes OK
+2025/09/11-17:15:45.788 3cd50 Delete type=0 #156
+2025/09/11-17:21:01.739 3cd4f Compacting 1@1 + 1@2 files
+2025/09/11-17:21:01.746 3cd4f Generated table #161@1: 48 keys, 14548 bytes
+2025/09/11-17:21:01.746 3cd4f Compacted 1@1 + 1@2 files => 14548 bytes
+2025/09/11-17:21:01.752 3cd4f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/11-17:21:01.752 3cd4f Delete type=2 #158
+2025/09/11-17:21:01.752 3cd4f Delete type=2 #160
+2025/09/11-18:27:26.221 3cd50 Level-0 table #163: started
+2025/09/11-18:27:26.237 3cd50 Level-0 table #163: 2358431 bytes OK
+2025/09/11-18:27:26.244 3cd50 Delete type=0 #159
+2025/09/11-20:32:11.045 3cd4f Compacting 1@1 + 1@2 files
+2025/09/11-20:32:11.052 3cd4f Generated table #164@1: 51 keys, 19307 bytes
+2025/09/11-20:32:11.052 3cd4f Compacted 1@1 + 1@2 files => 19307 bytes
+2025/09/11-20:32:11.058 3cd4f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/11-20:32:11.058 3cd4f Delete type=2 #161
+2025/09/11-20:32:11.058 3cd4f Delete type=2 #163
+2025/09/11-21:05:51.173 3cd50 Level-0 table #166: started
+2025/09/11-21:05:51.189 3cd50 Level-0 table #166: 2437941 bytes OK
+2025/09/11-21:05:51.196 3cd50 Delete type=0 #162
+2025/09/11-21:10:58.540 3cd4f Compacting 1@1 + 1@2 files
+2025/09/11-21:10:58.548 3cd4f Generated table #167@1: 51 keys, 17182 bytes
+2025/09/11-21:10:58.548 3cd4f Compacted 1@1 + 1@2 files => 17182 bytes
+2025/09/11-21:10:58.554 3cd4f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/11-21:10:58.554 3cd4f Delete type=2 #164
+2025/09/11-21:10:58.554 3cd4f Delete type=2 #166

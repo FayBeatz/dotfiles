@@ -1,0 +1,8 @@
+2025/09/11-14:02:18.508 3cd4f Reusing MANIFEST /home/fahmy/.config/Netflix/Local Storage/leveldb/MANIFEST-000001
+2025/09/11-14:02:18.515 3cd4f Recovering log #51
+2025/09/11-14:02:18.517 3cd4f Level-0 table #55: started
+2025/09/11-14:02:18.521 3cd4f Level-0 table #55: 16885 bytes OK
+2025/09/11-14:02:18.528 3cd4f Delete type=0 #51
+2025/09/11-17:19:23.224 3cd4f Level-0 table #58: started
+2025/09/11-17:19:23.228 3cd4f Level-0 table #58: 17386 bytes OK
+2025/09/11-17:19:23.234 3cd4f Delete type=0 #56
