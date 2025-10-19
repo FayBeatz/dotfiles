@@ -1,0 +1,22 @@
+{
+	"games": [
+		{
+			"runner": "sideload",
+			"app_name": "dQC7YDgsMqiB7Rk3PvC48j",
+			"title": "Hollow Knight Silksong",
+			"install": {
+				"executable": "/home/fahmy/Games/Hollow Knight Silksong v1.0.28561 RexaGames/Hollow Knight Silksong.exe",
+				"platform": "Windows",
+				"is_dlc": false
+			},
+			"folder_name": "/home/fahmy/Games/Hollow Knight Silksong v1.0.28561 RexaGames",
+			"art_cover": "https://cdn2.steamgriddb.com/grid/848ffe097e37ee8768d50dbc688e0757.png",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/grid/848ffe097e37ee8768d50dbc688e0757.png",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
+		}
+	]
+}

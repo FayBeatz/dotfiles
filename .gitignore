@@ -1,0 +1,40 @@
+-----------------------------------------------------------------
+This file tells Git which files to ignore.
+These are temporary files and cache directories that should not
+be committed to your repository.
+-----------------------------------------------------------------
+Application-specific cache and temporary directories
+
+.config/Netflix/
+.config/go/
+.config/heroic/
+.config/spotify/
+.config/spicetify/
+.config/illogical-impulse/
+.config/session/
+.config/QtProject.conf
+.config/arkrc
+.config/dolphinrc
+.config/gtkrc
+.config/gtkrc-2.0
+.config/katerc
+.config/kde.org/
+.config/MangoHud/
+Generic cache and temporary files/directories
+These patterns match common system and application junk
+
+Cache/
+*Cache
+*/Cache
+*.log
+*.db
+*.old
+*journal
+*metadata.json
+*state.bnk
+*pending-messages
+*pending-messages_seq_nr
+user
+LOG
+MANIFEST-
+000003.log
